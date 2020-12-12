@@ -123,7 +123,7 @@ header:before {
 
 footer {
   grid-area: "footer) ";
-  border: 5px solid hotpink;
+  border: 2px solid hotpink;
 }
 
 footer:before {
